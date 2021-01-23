@@ -1,0 +1,5 @@
+name: RandomDrops
+version: 1.2
+author: Nate
+main: me.nate.randomdrops.Main
+api-version: 1.16
